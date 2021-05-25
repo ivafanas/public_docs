@@ -4,9 +4,9 @@
 
 #### [Align Technology](https://aligntech.com)
 
-**Senior C++ developer**  
-*10.2018 - …*  
-C++, python, analytic geometry
+> **Senior C++ developer**  
+> *10.2018 - …*  
+> C++, python, analytic geometry
 
 Medical CAD system development.
 
@@ -31,9 +31,9 @@ Buddy for new hire developers.
 
 #### [Yandex](https://yandex.ru/)
 
-**C++ developer**  
-*10.2016 - 10.2018*  
-C++, python
+> **C++ developer**  
+> *10.2016 - 10.2018*  
+> C++, python
 
 Development of the chromium-based Yandex browser. SafeBrowsing
 team: prevention of user access to fishing sites, bitcoin miners detection,
@@ -42,51 +42,51 @@ reports post-processing.
 
 #### [Novosibirsk State University](https://www.nsu.ru)
 
-**Senior C++ developer**  
-*05.2016 - 10.2016*  
-C++, python
+> **Senior C++ developer**  
+> *05.2016 - 10.2016*  
+> C++, python
 
 Server-side development of high-performance services and execution/watchdog engine
 
 #### [2gis](https://2gis.ru/)
 
-**C++ team lead**  
-*2015 - 2016*  
-C++, python
+> **C++ team lead**  
+> *2015 - 2016*  
+> C++, python
 
 Lead of navigation services integration team into 2gis mobile
 products. Team mission is to provide a single high level interface for
 mobile development teams. Team is responsible for traffic jams, car routing,
 public transport routing and navigation services. The 1st navigator release.
 
-**Senior iOS developer**  
-*2014 - 2015*  
-Objective-C++, ReactiveCocoa
+> **Senior iOS developer**  
+> *2014 - 2015*  
+> Objective-C++, ReactiveCocoa
 
 2gis mobile app v4 for iOS. The 1st v4 release.
 
-**Senior С++ developer / Team lead**  
-*2013 - 2014*  
-C++, Qt 4.8, Objective-C++, Java, JNE
+> **Senior С++ developer / Team lead**  
+> *2013 - 2014*  
+> C++, Qt 4.8, Objective-C++, Java, JNE
 
-2gis mobile app v3 (iOS, Android, WinCE, Symbian)
+2gis mobile app v3 (iOS, Android, WinCE, Symbian). Project is completed.
 
-**С++ developer**  
-*2011 - 2013*  
-C++, Qt 4.8, Objective-C++, Java, JNE
+> **С++ developer**  
+> *2011 - 2013*  
+> C++, Qt 4.8, Objective-C++, Java, JNE
 
 2gis mobile app v3 (iOS, Android, WinCE, Symbian)
 
 #### [Intel](https://www.intel.com)
 
-**Software engineer intern**  
-*2010 - 2011*  
-C, Fortran, OpenMP
+> **Software engineer intern**  
+> *2010 - 2011*  
+> C, Fortran, OpenMP
 
-Development of the BLAS L1, L2 functions for Intel Xeon Phi.
+Development of the BLAS L1, L2 functions for Intel Xeon Phi using compiler intrinsics.
 
-**Software engineer intern**  
-*2008 - 2010*
+> **Software engineer intern**  
+> *2008 - 2010*
 
 Performance testing of Intel MKL on servers / clusters.
 Integration of the new tests into testing infrastructure.
@@ -94,8 +94,8 @@ Validation algorithms development for BLAS functions.
 
 #### [Boner](http://boner.ru)
 
-**C programmer**  
-*2006 - 2008*  
+> **C programmer**  
+> *2006 - 2008*  
 
 Microcontrollers development.
 
@@ -103,15 +103,15 @@ Microcontrollers development.
 
 #### [Institute of Computational Mathematics and Mathematical Geophysics SB RAS](https://icmmg.nsc.ru)
 
-**Doctor of Philosophy (PhD). Computational Mathematics and Math Modelling. 05.13.18**  
-*2011 - 2014*
+> **Doctor of Philosophy (PhD). Computational Mathematics and Math Modelling. 05.13.18**  
+> *2011 - 2014*
 
 Cellular automata modelling of population dynamics
 
 #### [Novosibirsk State University](https://www.nsu.ru)
 
-**Master’s degree. Mathematics and mechanics department.**  
-*2005 - 2011*  
+> **Master’s degree. Mathematics and mechanics department.**  
+> *2005 - 2011*  
 
 Diploma with honors
 
