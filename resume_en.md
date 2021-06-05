@@ -127,7 +127,7 @@ Diploma with honors
 * Speeches at conferences:  
   [CppSiberia 2017: C++ performance testing tool (RU)](https://www.youtube.com/watch?v=K_YkyXeZ8tU)  
   [CppRussia  2020: std::to_string faster than light (RU)](https://www.youtube.com/watch?v=xCv84sSz204)  
-  [CppSiberia 2021: Compilation time. Profile / Visualize / Speedup (RU)](https://youtu.be/-CrFf7VRx3E?t=13313)  
+  [CppSiberia 2021: Compilation time. Profile / Visualize / Speedup (RU)](https://youtu.be/VdXk0nJsXgI)  
 
 * C++ courses in [CSC](https://compscicenter.ru/) :  
   Advanced C++
