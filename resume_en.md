@@ -124,6 +124,9 @@ Diploma with honors
 * Bug reports to clang libcxx:  
   [race condition in steady_clock::now](https://bugs.llvm.org/show_bug.cgi?id=41323#c4)
 
+* Commits to llvm:  
+  [AsmPrinter fix nullptr dereference for MBBs with hasAddressTaken property without BB](https://reviews.llvm.org/D108092)
+
 * Speeches at conferences:  
   [CppSiberia 2017: C++ performance testing tool (RU)](https://www.youtube.com/watch?v=K_YkyXeZ8tU)  
   [CppRussia  2020: std::to_string faster than light (RU)](https://www.youtube.com/watch?v=xCv84sSz204)  
