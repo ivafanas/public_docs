@@ -126,7 +126,8 @@ Diploma with honors
 
 * Commits to llvm:  
   [AsmPrinter fix nullptr dereference for MBBs with hasAddressTaken property without BB](https://reviews.llvm.org/D108092)  
-  [Fix assertion in SmallDenseMap constructor with reserve from non-power-of-2 buckets count](https://reviews.llvm.org/D129825)
+  [Fix assertion in SmallDenseMap constructor with reserve from non-power-of-2 buckets count](https://reviews.llvm.org/D129825)  
+  [Fix dst subreg replacement during remat copy trick](https://reviews.llvm.org/D125657)
 
 * Speeches at conferences:  
   [CppSiberia 2017: C++ performance testing tool (RU)](https://www.youtube.com/watch?v=K_YkyXeZ8tU)  
