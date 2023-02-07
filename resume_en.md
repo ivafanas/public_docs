@@ -2,10 +2,23 @@
 
 ### Experience
 
+#### [Unipro](https://unipro.ru)
+
+> **Senior C++ developer**  
+> *06.2021 - ...*  
+> C++, LLVM, python
+
+LLVM development for out-of-tree backend.
+
+* Unroll-and-jam transformation implementation on MIR level.
+* Development of target-specific IR passes.
+* Development of auto generators for integration tests (python).
+* Development of fuzzers for some target-specific IR passes.
+
 #### [Align Technology](https://aligntech.com)
 
 > **Senior C++ developer**  
-> *10.2018 - …*  
+> *10.2018 - 06.2021*  
 > C++, python, analytic geometry
 
 Medical CAD system development.
