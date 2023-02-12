@@ -59,7 +59,7 @@ reports post-processing.
 > *05.2016 - 10.2016*  
 > C++, python
 
-Server-side development of high-performance services and execution/watchdog engine
+NDA.
 
 #### [2gis](https://2gis.ru/)
 
