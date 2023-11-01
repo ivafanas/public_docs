@@ -142,6 +142,9 @@ Diploma with honors
   [Fix assertion in SmallDenseMap constructor with reserve from non-power-of-2 buckets count](https://reviews.llvm.org/D129825)  
   [Fix dst subreg replacement during remat copy trick](https://reviews.llvm.org/D125657)
 
+* Other open source contributions:  
+  [GoogleBenchmark: Fix unit tests compilation by non-gnu/msvc compilers with c++11 support](https://github.com/google/benchmark/pull/1691)
+
 * Speeches at conferences:  
   [CppSiberia 2017: C++ performance testing tool (RU)](https://www.youtube.com/watch?v=K_YkyXeZ8tU)  
   [CppRussia  2020: std::to_string faster than light (RU)](https://www.youtube.com/watch?v=xCv84sSz204)  
