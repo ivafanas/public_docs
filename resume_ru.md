@@ -151,6 +151,9 @@ NDA.
   [Fix assertion in SmallDenseMap constructor with reserve from non-power-of-2 buckets count](https://reviews.llvm.org/D129825)  
   [Fix dst subreg replacement during remat copy trick](https://reviews.llvm.org/D125657)
 
+* Bug report-ы в llvm:  
+  [Clang generates incorrect code for unions of types with padding](https://github.com/llvm/llvm-project/issues/76017)
+
 * Коммиты в иные open source проекты:  
   [GoogleBenchmark: Fix unit tests compilation by non-gnu/msvc compilers with c++11 support](https://github.com/google/benchmark/pull/1691)
 
