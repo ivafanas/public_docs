@@ -155,7 +155,8 @@ NDA.
   [Clang generates incorrect code for unions of types with padding](https://github.com/llvm/llvm-project/issues/76017)
 
 * Коммиты в иные open source проекты:  
-  [GoogleBenchmark: Fix unit tests compilation by non-gnu/msvc compilers with c++11 support](https://github.com/google/benchmark/pull/1691)
+  [GoogleBenchmark: Fix unit tests compilation by non-gnu/msvc compilers with c++11 support](https://github.com/google/benchmark/pull/1691)  
+  [GoogleBenchmark: Fix division by zero for low frequency timers for CV statistics](https://github.com/google/benchmark/pull/1724)
 
 * Выступления на конференциях:  
   [CppSiberia 2017: C++ performance testing tool (RU)](https://www.youtube.com/watch?v=K_YkyXeZ8tU)  
