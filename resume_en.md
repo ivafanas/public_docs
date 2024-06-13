@@ -132,7 +132,8 @@ Diploma with honors
 
 * Commits to clang libcxx:  
   [speedup std::to_string for integers](https://reviews.llvm.org/D59178)  
-  [fix leading zeros in std::to_chars](https://reviews.llvm.org/D63047)
+  [fix leading zeros in std::to_chars](https://reviews.llvm.org/D63047)  
+  [Fix UB in filesystem copy for non-existent destination.](https://github.com/llvm/llvm-project/pull/87615)
 
 * Bug reports to clang libcxx:  
   [race condition in steady_clock::now](https://bugs.llvm.org/show_bug.cgi?id=41323#c4)
