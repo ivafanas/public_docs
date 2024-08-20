@@ -158,7 +158,8 @@ NDA.
 * Коммиты в иные open source проекты:  
   [GoogleBenchmark: Fix unit tests compilation by non-gnu/msvc compilers with c++11 support](https://github.com/google/benchmark/pull/1691)  
   [GoogleBenchmark: Fix division by zero for low frequency timers for CV statistics](https://github.com/google/benchmark/pull/1724)  
-  [fmtlib: Fix UB in format_arg_store implementation](https://github.com/fmtlib/fmt/pull/3833)
+  [fmtlib: Fix UB in format_arg_store implementation](https://github.com/fmtlib/fmt/pull/3833)  
+  [opencv: speedup random forest getVotes method](https://github.com/opencv/opencv/pull/26046)  
 
 * Выступления на конференциях:  
   [CppSiberia 2017: C++ performance testing tool (RU)](https://www.youtube.com/watch?v=K_YkyXeZ8tU)  
