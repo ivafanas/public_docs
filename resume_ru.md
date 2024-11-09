@@ -151,7 +151,8 @@ NDA.
   [AsmPrinter fix nullptr dereference for MBBs with hasAddressTaken property without BB](https://reviews.llvm.org/D108092)  
   [Fix assertion in SmallDenseMap constructor with reserve from non-power-of-2 buckets count](https://reviews.llvm.org/D129825)  
   [Fix dst subreg replacement during remat copy trick](https://reviews.llvm.org/D125657)  
-  [Fix debug location info strip for bundled instructions](https://github.com/llvm/llvm-project/pull/113676)
+  [Fix debug location info strip for bundled instructions](https://github.com/llvm/llvm-project/pull/113676)  
+  [Fix NumPromoted statistic for SROA pass](https://github.com/llvm/llvm-project/pull/115586)  
 
 * Bug report-ы в llvm:  
   [Clang generates incorrect code for unions of types with padding](https://github.com/llvm/llvm-project/issues/76017)
