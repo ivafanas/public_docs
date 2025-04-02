@@ -144,6 +144,7 @@ Diploma with honors
   [Fix dst subreg replacement during remat copy trick](https://reviews.llvm.org/D125657)  
   [Fix debug location info strip for bundled instructions](https://github.com/llvm/llvm-project/pull/113676)  
   [Fix NumPromoted statistic for SROA pass](https://github.com/llvm/llvm-project/pull/115586)  
+  [[EarlyIfConverter] Fix reg killed twice after early-if-predicator and ifcvt](https://github.com/llvm/llvm-project/pull/133554)  
 
 * Bug reports to llvm:  
   [Clang generates incorrect code for unions of types with padding](https://github.com/llvm/llvm-project/issues/76017)
