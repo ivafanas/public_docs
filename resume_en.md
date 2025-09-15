@@ -146,6 +146,7 @@ Diploma with honors
   [Fix NumPromoted statistic for SROA pass](https://github.com/llvm/llvm-project/pull/115586)  
   [[EarlyIfConverter] Fix reg killed twice after early-if-predicator and ifcvt](https://github.com/llvm/llvm-project/pull/133554)  
   [[CodeGen][CodeLayout] Fix segfault on access to deleted block in MBP.](https://github.com/llvm/llvm-project/pull/142357)  
+  [[CodeGen] Fix partial phi input removal in TailDuplicator.](https://github.com/llvm/llvm-project/pull/158265)  
 
 * Bug reports to llvm:  
   [Clang generates incorrect code for unions of types with padding](https://github.com/llvm/llvm-project/issues/76017)
