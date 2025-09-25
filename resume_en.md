@@ -164,16 +164,8 @@ Diploma with honors
   [CppSiberia 2021: Compilation time. Profile / Visualize / Speedup (RU)](https://youtu.be/VdXk0nJsXgI)  
   [CppRussia  2023: Loop Unrolling in details (RU)](https://www.youtube.com/watch?v=Tst3MbTrYzk)
 
-* C++ courses in [CSC](https://compscicenter.ru/) :  
-  Advanced C++
-  [2020](https://my.compscicenter.ru/courses/2021-spring/2.914-cpp-2/),
-  [2021](https://my.compscicenter.ru/courses/2020-spring/2.500-cpp-2/)  
-  Basic C++
-  [2017](https://my.compscicenter.ru/courses/2017-autumn/2.320-cpp-1/),
-  [2018](https://my.compscicenter.ru/courses/2018-autumn/2.388-cpp-1/),
-  [2019](https://my.compscicenter.ru/courses/2019-autumn/2.453-cpp-1/),
-  [2020](https://my.compscicenter.ru/courses/2020-spring/2.500-cpp-2/)  
-  [Materials](https://github.com/ivafanas/cpp_shad_students)
+* C++ courses in [CSC/SHAD](https://compscicenter.ru/) 2017 - ...:  
+  [Materials](https://github.com/ivafanas/cpp_shad_students)  
 
 ### Contacts
 * email: ivafanas (at) gmail.com
