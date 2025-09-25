@@ -156,6 +156,7 @@ NDA.
   [[EarlyIfConverter] Fix reg killed twice after early-if-predicator and ifcvt](https://github.com/llvm/llvm-project/pull/133554)  
   [[CodeGen][CodeLayout] Fix segfault on access to deleted block in MBP.](https://github.com/llvm/llvm-project/pull/142357)  
   [[CodeGen] Fix partial phi input removal in TailDuplicator.](https://github.com/llvm/llvm-project/pull/158265)  
+  [[CodeGen] Extract copy-paste on PHI MachineInstr income removal.](https://github.com/llvm/llvm-project/pull/158634)  
 
 * Bug report-ы в llvm:  
   [Clang generates incorrect code for unions of types with padding](https://github.com/llvm/llvm-project/issues/76017)
